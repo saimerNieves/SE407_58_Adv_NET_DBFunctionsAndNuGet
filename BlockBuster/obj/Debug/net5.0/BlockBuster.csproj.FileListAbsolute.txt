@@ -1,0 +1,15 @@
+C:\Users\saime\source\repos\BlockBuster\bin\Debug\net5.0\BlockBuster.deps.json
+C:\Users\saime\source\repos\BlockBuster\bin\Debug\net5.0\BlockBuster.runtimeconfig.json
+C:\Users\saime\source\repos\BlockBuster\bin\Debug\net5.0\BlockBuster.runtimeconfig.dev.json
+C:\Users\saime\source\repos\BlockBuster\bin\Debug\net5.0\BlockBuster.dll
+C:\Users\saime\source\repos\BlockBuster\bin\Debug\net5.0\ref\BlockBuster.dll
+C:\Users\saime\source\repos\BlockBuster\bin\Debug\net5.0\BlockBuster.pdb
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\BlockBuster.AssemblyInfo.cs
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\BlockBuster.dll
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\ref\BlockBuster.dll
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\BlockBuster.pdb
+C:\Users\saime\source\repos\BlockBuster\obj\Debug\net5.0\BlockBuster.genruntimeconfig.cache
